@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605881990878",
+    "project_id": "flipkarthealth-bc871",
+    "storage_bucket": "flipkarthealth-bc871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605881990878:android:cb014148a4d780a4768c4f",
+        "android_client_info": {
+          "package_name": "com.example.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605881990878-0686tfqfi98qitntr301hujcg502er90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.health",
+            "certificate_hash": "5ae33f3e9420de5f7380a0fd11cfa7270249e2b7"
+          }
+        },
+        {
+          "client_id": "605881990878-eggnsv4v43jud923caack82d90qkjsi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGkhQSfNtxsQ5_VyxE5VGpTq8eswMbOd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605881990878-eggnsv4v43jud923caack82d90qkjsi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

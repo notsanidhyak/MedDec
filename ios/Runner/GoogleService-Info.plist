@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>605881990878-pp56stko8jn4kdclr0onalv977i3hakg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.605881990878-pp56stko8jn4kdclr0onalv977i3hakg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>605881990878-0686tfqfi98qitntr301hujcg502er90.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2vCM1HB4GsMfdXwOfssXEmTJNsCKkWRU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>605881990878</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.health</string>
+	<key>PROJECT_ID</key>
+	<string>flipkarthealth-bc871</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flipkarthealth-bc871.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:605881990878:ios:313dee3398b5bbe8768c4f</string>
+</dict>
+</plist>
